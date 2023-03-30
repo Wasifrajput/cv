@@ -1,0 +1,50 @@
+.main {
+    width: 1200px;
+    height: 1310px;
+    margin: auto;
+    box-shadow: 5px 5px 15px 15px gray;
+    padding: 20px;
+    font-size: larger;
+}
+
+.row-full {
+    width: 1000px;
+    height: 1250px;
+}
+
+.row-half {
+    width: 250px;
+    height: 1250px;
+    padding: 10px;
+    float: left;
+}
+
+.row1 {
+    width: 700px;
+    height: 250px;
+    float: left;
+}
+
+.row2 {
+    width: 700px;
+    height: 275px;
+    float: left;
+}
+
+.row3 {
+    width: 700px;
+    height: 275px;
+    float: left;
+}
+
+.row4 {
+    width: 700px;
+    height: 275px;
+    float: left;
+}
+
+.row5 {
+    width: 700px;
+    height: 100px;
+    float: left;
+}
